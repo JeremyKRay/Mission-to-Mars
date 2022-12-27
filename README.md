@@ -7,6 +7,11 @@ The final website includes a button that when clicked will scrape the websites a
 
 ## Instructions
 A) Clone this repository
-B)
+
+B) In your terminal, make sure you're in the correct directory with the ls command (if you don't see the files you've been working on, then navigate to the folder you're storing them in). 
+
+C) Make sure you have the correct environment activated, then type python app.py into your terminal.
+
+D) The next message you see on your terminal should be a message that the Flask application is running on localhost. Enter that address (usually http://127.0.0.1:5000/) into the address bar of your web browser.
 
 [Mission To Mars](http://127.0.0.1:5000/)
